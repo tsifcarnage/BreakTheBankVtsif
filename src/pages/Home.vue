@@ -17,8 +17,8 @@ export default {
         "Déverrouillez le coffre-fort en terminant tous les mini-jeux.",
         "Vous avez un temps limité pour chaque défi.",
         "Vous disposez de 3 vies. Si le temps est écoulé avant que vous ayez réussi, vous perdez une vie.",
-        "Si vous perdez vos 3 vies, vous avez perdu et la police intervient.",
-        "Detail pour mini-jeux horloge: quand l'heure est entre 01 - 09 cliquer sur un chiffre, pas besoin d'un 0 avant, apres cliquer sur enter en forme de → pour passer au minute",
+        "Si vous perdez vos 3 vies, vous avez perdu et l'alarme se déclenche.",
+        "Détail pour mini-jeux 'horloge': quand l'heure est entre 01 - 09 cliquer sur un chiffre, pas besoin d'un 0 avant, apres cliquer sur enter en forme de → pour passer au minute",
       ],
     };
   },
